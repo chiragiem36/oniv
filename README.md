@@ -1,7 +1,7 @@
 # oniv
 project oniv aims to create a single source of truth for academic records, like what medicalnchain is doing for medical reports.
-Currently edicational sector is completely based on papers, when it comes to academic records, and various others things like exams
-Fake academic reports and degrees can be eleiminated if system becomes digital. But uere comes another threat of data loss, attacks, due to which student will suffer for his/her entire life, if his/her data is tampered or lost. Thanks to the blockchain, this is no more an issue. Using blockchain academic data can be made impossible to get tampered or get lost 
+Currently Education sector completely rely on papers, when it comes to academic records, and various others things like exams
+Fake printed academic reports and degrees can be created easily created without even getting caught. Offline test have another issues or "cheating the exam" or frauds. We are aware of vyapam scam and recently explored SSC exam fraud. Such frauds can be eleiminated if system becomes digital. Tests become electronic and academic records become digital. But here comes another threat of data loss due to attacks, due to which student will have to suffer for his/her entire life, if his/her data is tampered or lost. Thanks to the blockchain, this is no more an issue. Using blockchain academic data can be made impossible to get tampered or get lost 
  ( test result )
 
 
