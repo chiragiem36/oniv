@@ -1,5 +1,5 @@
 # oniv
-asset create
+asset create 
 project oniv aims to create a single source of truth for academic records, like what medicalnchain is doing for medical reports.
 Currently edicational sector is completely based on papers, when it comes to academic records, and various others things like exams
 Fake academic reports and degrees can be eleiminated if system becomes digital. But uere comes another threat of data loss, attacks, due to which student will suffer for his/her entire life, if his/her data is tampered or lost. Thanks to the blockchain, this is no more an issue. Using blockchain academic data can be made impossible to get tampered or get lost 
